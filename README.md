@@ -47,6 +47,7 @@ var assembly = Assembly.Load("Events.API");
 ### 3. Compile e execute
 
 ```bash
+dotnet build
 dotnet run
 ```
 
